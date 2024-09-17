@@ -1,6 +1,6 @@
 #!/bin/bash 
-COUNTER=0 
-###chahge file
+COUNTER=1 
+###chahge file 
 while [ $COUNTER -lt 10 ] 
 do 
    echo The counter is $COUNTER 
